@@ -1,3 +1,3 @@
 # NLP Scrapbook
 
-*MrJob word count (**in progress**)
+- MrJob word count (*in progress*)
