@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_degree" for="node" attr.name="degree" attr.type="double"/>
+  <key id="v_label.cex" for="node" attr.name="label.cex" attr.type="double"/>
+  <key id="v_label.color" for="node" attr.name="label.color" attr.type="string"/>
+  <key id="v_frame.color" for="node" attr.name="frame.color" attr.type="boolean"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="e_color" for="edge" attr.name="color" attr.type="string"/>
+  <key id="e_width" for="edge" attr.name="width" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">approached</data>
+      <data key="v_label">approached</data>
+      <data key="v_degree">5</data>
+      <data key="v_label.cex">0.472727272727273</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">cheers</data>
+      <data key="v_label">cheers</data>
+      <data key="v_degree">2</data>
+      <data key="v_label.cex">0.309090909090909</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">dirndl</data>
+      <data key="v_label">dirndl</data>
+      <data key="v_degree">2</data>
+      <data key="v_label.cex">0.309090909090909</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">drinks</data>
+      <data key="v_label">drinks</data>
+      <data key="v_degree">5</data>
+      <data key="v_label.cex">0.472727272727273</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">drunk</data>
+      <data key="v_label">drunk</data>
+      <data key="v_degree">3</data>
+      <data key="v_label.cex">0.363636363636364</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">found</data>
+      <data key="v_label">found</data>
+      <data key="v_degree">5</data>
+      <data key="v_label.cex">0.472727272727273</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">friend</data>
+      <data key="v_label">friend</data>
+      <data key="v_degree">5</data>
+      <data key="v_label.cex">0.472727272727273</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">gehts</data>
+      <data key="v_label">gehts</data>
+      <data key="v_degree">1</data>
+      <data key="v_label.cex">0.254545454545455</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">italy</data>
+      <data key="v_label">italy</data>
+      <data key="v_degree">5</data>
+      <data key="v_label.cex">0.472727272727273</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">muenchen</data>
+      <data key="v_label">muenchen</data>
+      <data key="v_degree">2</data>
+      <data key="v_label.cex">0.309090909090909</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">münchen</data>
+      <data key="v_label">münchen</data>
+      <data key="v_degree">3</data>
+      <data key="v_label.cex">0.363636363636364</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">munich</data>
+      <data key="v_label">munich</data>
+      <data key="v_degree">6</data>
+      <data key="v_label.cex">0.527272727272727</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">new</data>
+      <data key="v_label">new</data>
+      <data key="v_degree">5</data>
+      <data key="v_label.cex">0.472727272727273</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">nowhere</data>
+      <data key="v_label">nowhere</data>
+      <data key="v_degree">5</data>
+      <data key="v_label.cex">0.472727272727273</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">offered</data>
+      <data key="v_label">offered</data>
+      <data key="v_degree">5</data>
+      <data key="v_label.cex">0.472727272727273</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">oktoberfestmunich</data>
+      <data key="v_label">oktoberfestmunich</data>
+      <data key="v_degree">3</data>
+      <data key="v_label.cex">0.363636363636364</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">outfit</data>
+      <data key="v_label">outfit</data>
+      <data key="v_degree">5</data>
+      <data key="v_label.cex">0.472727272727273</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">schick</data>
+      <data key="v_label">schick</data>
+      <data key="v_degree">2</data>
+      <data key="v_label.cex">0.309090909090909</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">schützenfestzelt</data>
+      <data key="v_label">schützenfestzelt</data>
+      <data key="v_degree">2</data>
+      <data key="v_label.cex">0.309090909090909</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">sexismus</data>
+      <data key="v_label">sexismus</data>
+      <data key="v_degree">2</data>
+      <data key="v_label.cex">0.309090909090909</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">stranger</data>
+      <data key="v_label">stranger</data>
+      <data key="v_degree">3</data>
+      <data key="v_label.cex">0.363636363636364</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">ucl</data>
+      <data key="v_label">ucl</data>
+      <data key="v_degree">2</data>
+      <data key="v_label.cex">0.309090909090909</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">wiesn</data>
+      <data key="v_label">wiesn</data>
+      <data key="v_degree">22</data>
+      <data key="v_label.cex">1.4</data>
+      <data key="v_label.color">#000033CC</data>
+      <data key="v_frame.color">true</data>
+    </node>
+    <edge source="n0" target="n3">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n0" target="n11">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n0" target="n13">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n0" target="n14">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n0" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n1" target="n10">
+      <data key="e_weight">1</data>
+      <data key="e_color">#80800019</data>
+      <data key="e_width">0.0997323780999645</data>
+    </edge>
+    <edge source="n1" target="n22">
+      <data key="e_weight">5</data>
+      <data key="e_color">#808000A2</data>
+      <data key="e_width">0.634775946137616</data>
+    </edge>
+    <edge source="n2" target="n9">
+      <data key="e_weight">3</data>
+      <data key="e_color">#80800077</data>
+      <data key="e_width">0.464956431962349</data>
+    </edge>
+    <edge source="n2" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n3" target="n11">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n3" target="n13">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n3" target="n14">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n3" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n4" target="n15">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n4" target="n20">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n4" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n5" target="n8">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n5" target="n12">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n5" target="n16">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n5" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n6" target="n8">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n6" target="n12">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n6" target="n16">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n6" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n7" target="n22">
+      <data key="e_weight">3</data>
+      <data key="e_color">#80800077</data>
+      <data key="e_width">0.464956431962349</data>
+    </edge>
+    <edge source="n8" target="n12">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n8" target="n16">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n8" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n9" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n10" target="n11">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n10" target="n22">
+      <data key="e_weight">14</data>
+      <data key="e_color">#808000F9</data>
+      <data key="e_width">0.97706392284887</data>
+    </edge>
+    <edge source="n11" target="n13">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n11" target="n14">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n11" target="n22">
+      <data key="e_weight">15</data>
+      <data key="e_color">#808000FF</data>
+      <data key="e_width">1</data>
+    </edge>
+    <edge source="n12" target="n16">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n12" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n13" target="n14">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n13" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n14" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n15" target="n20">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n15" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n16" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n17" target="n21">
+      <data key="e_weight">5</data>
+      <data key="e_color">#808000A2</data>
+      <data key="e_width">0.634775946137616</data>
+    </edge>
+    <edge source="n17" target="n22">
+      <data key="e_weight">5</data>
+      <data key="e_color">#808000A2</data>
+      <data key="e_width">0.634775946137616</data>
+    </edge>
+    <edge source="n18" target="n19">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n18" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n19" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n20" target="n22">
+      <data key="e_weight">4</data>
+      <data key="e_color">#8080008F</data>
+      <data key="e_width">0.56059382270349</data>
+    </edge>
+    <edge source="n21" target="n22">
+      <data key="e_weight">5</data>
+      <data key="e_color">#808000A2</data>
+      <data key="e_width">0.634775946137616</data>
+    </edge>
+  </graph>
+</graphml>

@@ -34,7 +34,7 @@ text_clean = gsub("http\\w+", "", text_clean)
 ```{r}
 text_corpus = Corpus(VectorSource(text_clean))
 text_corpus = tm_map(text_corpus, tolower)
-text_corpus = tm_map(text_corpus, removeWords, c(stopwords("english"), stopwords("german")))
+text_corpus = tm_map(text_corpus, removeWords, c(stopwords("english"), stopwords("german"), 'oktoberfest'))
 text_corpus = tm_map(text_corpus, stripWhitespace)
 text_corpus = tm_map(text_corpus, PlainTextDocument)
 ```
